@@ -29,3 +29,4 @@ if (CMAKE_PROJECT_NAME STREQUAL PROJECT_NAME)
     endif()
 endif()
 
+add_subdirectory(day_1)
